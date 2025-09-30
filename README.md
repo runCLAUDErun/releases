@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/runCLAUDErun/releases/main/runCLAUDErun_logo.svg" width="40" align="center" alt="runCLAUDErun Logo"> runCLAUDErun
+# <img src="https://raw.githubusercontent.com/runCLAUDErun/releases/main/icon.png" width="40" align="center" alt="runCLAUDErun"> runCLAUDErun
 
 **The professional scheduler for Claude CLI on macOS**
 
@@ -7,7 +7,7 @@ Automate your Claude CLI commands with a beautiful native macOS app. Schedule ta
 ## 📥 Download
 
 ### Latest Release
-**[⬇️ Download runCLAUDErun v1.1.5](https://github.com/runCLAUDErun/releases/releases/latest)**
+**[⬇️ Download runCLAUDErun v1.1.6](https://github.com/runCLAUDErun/releases/releases/latest)**
 
 ### System Requirements
 - macOS 10.13 or later
@@ -26,15 +26,20 @@ Automate your Claude CLI commands with a beautiful native macOS app. Schedule ta
 
 - **📅 Flexible Scheduling** - Run tasks at specific times, intervals, or on system events
 - **🎯 Native macOS Integration** - Menu bar app with system-level scheduling via launchd
+- **💻 Works with Claude Code CLI** - Seamlessly integrates with the official Claude Code command-line interface
+- **🔒 Local Storage** - All your tasks and data are stored locally on your machine
+- **🏠 Privacy First** - Everything runs locally, no cloud dependencies
 - **🔄 Auto-Updates** - Stay up to date with automatic update notifications
 - **📊 Task Management** - Create, edit, enable/disable tasks with a clean interface
 - **📝 Logging** - Full output and error logging for all scheduled runs
 - **🔐 Secure** - Code signed and notarized by Apple
 
-## 📖 Documentation
+## 🎯 Benefits
 
-For detailed documentation, tutorials, and troubleshooting, visit the main repository:
-[github.com/willwnekowicz/runclauderun](https://github.com/willwnekowicz/runclauderun)
+- **100% Local** - All task configurations and data stay on your machine
+- **Claude Code CLI Compatible** - Built specifically to work with Claude's official CLI tool
+- **No Cloud Dependencies** - Your workflows remain private and under your control
+- **System-Level Integration** - Uses macOS's native launchd for reliable scheduling
 
 ## 🔄 Auto-Updates
 
@@ -45,17 +50,17 @@ runCLAUDErun includes automatic update checking. When a new version is available
 - ✅ Code signed with Apple Developer ID
 - ✅ Notarized by Apple for Gatekeeper approval
 - ✅ No data collection without consent
-- ✅ Open source codebase
-
-## 📝 License
-
-MIT License - see [LICENSE](LICENSE) for details
+- ✅ All data stored locally on your device
 
 ## 🤝 Support
 
-Having issues? Check our [troubleshooting guide](https://github.com/willwnekowicz/runclauderun#troubleshooting) or [open an issue](https://github.com/willwnekowicz/runclauderun/issues).
+Having issues? [Open an issue](https://github.com/runCLAUDErun/releases/issues) in this repository.
 
 ---
+
+<p align="center">
+  <em>runCLAUDErun is an independent project and is not affiliated with Anthropic or Claude.</em>
+</p>
 
 <p align="center">
   Made with ❤️ for the Claude community
