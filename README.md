@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/runCLAUDErun/releases/main/icon.png" width="40" align="center" alt="runCLAUDErun"> runCLAUDErun
+# <img src="https://raw.githubusercontent.com/runCLAUDErun/releases/main/icon.png" width="80" align="center" alt="runCLAUDErun"> runCLAUDErun
 
 **The professional scheduler for Claude CLI on macOS**
 
